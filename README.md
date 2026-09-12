@@ -64,3 +64,13 @@ If the guess is:
 ---
 
 ## 7. Output
+The program displays:
+
+- Total pengeluaran 
+- Sisa saldo pengguna
+- Kondisi keuangan pengguna
+- Ringkasan anggaran
+
+---
+
+

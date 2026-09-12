@@ -10,7 +10,7 @@
 |---|---|---|---|
 | 1 | Adrean Putra Widhiansyah | 2610312052 | Project Coordinator |
 | 2 | Clarissa Devi Tyanta | 2610312041 | Algorithm |
-| 3 | Student 3 | XXXXX | Flowchart |
+| 3 | Andi Chika Almira Aurora | 2610312061 | Flowchart |
 | 4 | Panji Jalu Hengkara | 2610312051 | JavaScript |
 | 5 | Muhammad Arkha Erdien | 2610312056 | Testing & Documentation |
 ---
@@ -23,7 +23,7 @@ Personal budget calculator
 
 ## 3. Project Description
 
-This program is a simple game in which the player must guess a number determined by the computer.
+Program sederhana ini membantu pengguna untuk memantau pemasukan dan pengeluaran selama suatu periode.
 
 ---
 
@@ -44,20 +44,22 @@ This project is designed to apply the following programming concepts:
 
 The program receives:
 
-- The player's guess
-- The number of attempts
+- Total pendapatan
+- Beberapa pengeluaran
+- Kategori pengeluaran
+- Jumlah pengeluaran
 
 ---
 
 ## 6. Process
 
-The program compares the player's guess with the target number.
+Program menghitung total pengeluaran dan sisa saldo
 
 If the guess is:
 
-- Too high → the program provides a "too high" message
-- Too low → the program provides a "too low" message
-- Correct → the player wins
+- Sisa saldo ≥ 30% dari pendapatan → Baik
+- Sisa saldo antara 10%–29% dari pendapatan → Perlu Perhatian
+- Sisa saldo < 10% dari pendapatan → Kritis
 
 ---
 

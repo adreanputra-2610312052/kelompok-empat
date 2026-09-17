@@ -71,7 +71,8 @@ The program displays:
 - Kondisi keuangan pengguna
 - Ringkasan anggaran
 
----
+## 8. Pseudocode
+
 
 ## 9. Flowchart
 https://github.com/adreanputra-2610312052/kelompok-empat/blob/827fb12d83cf45d2cd85938bd4eb173861986ca8/flowgarithm%20kelompok%204.fprg

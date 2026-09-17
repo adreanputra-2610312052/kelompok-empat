@@ -1,0 +1,66 @@
+ALGORITHM PersonalBudgetCalculator
+
+DECLARE
+    pendapatan            : REAL
+    jumlahPengeluaran     : INTEGER
+    kategori              : STRING
+    nominalPengeluaran    : REAL
+    totalPengeluaran      : REAL
+    sisaSaldo             : REAL
+    persentaseSaldo       : REAL
+    kondisiKeuangan       : STRING
+    i                     : INTEGER
+
+BEGIN
+
+    // Input pendapatan pengguna
+    OUTPUT "Masukkan total pendapatan: "
+    INPUT pendapatan
+
+    // Input jumlah pengeluaran
+    OUTPUT "Masukkan jumlah pengeluaran: "
+    INPUT jumlahPengeluaran
+
+    // Inisialisasi total pengeluaran
+    totalPengeluaran ← 0
+
+    // Memasukkan setiap pengeluaran
+    FOR i ← 1 TO jumlahPengeluaran DO
+
+        OUTPUT "Masukkan kategori pengeluaran ke-", i, ": "
+        INPUT kategori
+
+        OUTPUT "Masukkan jumlah pengeluaran ke-", i, ": "
+        INPUT nominalPengeluaran
+
+        totalPengeluaran ← totalPengeluaran + nominalPengeluaran
+
+    END FOR
+
+    // Menghitung sisa saldo
+    sisaSaldo ← pendapatan - totalPengeluaran
+
+    // Menghitung persentase sisa saldo terhadap pendapatan
+    persentaseSaldo ← (sisaSaldo / pendapatan) × 100
+
+    // Menentukan kondisi keuangan
+    IF persentaseSaldo >= 30 THEN
+        kondisiKeuangan ← "Baik"
+
+    ELSE IF persentaseSaldo >= 10 AND persentaseSaldo < 30 THEN
+        kondisiKeuangan ← "Perlu Perhatian"
+
+    ELSE
+        kondisiKeuangan ← "Kritis"
+
+    END IF
+
+    // Menampilkan ringkasan anggaran
+    OUTPUT "===== RINGKASAN ANGGARAN ====="
+    OUTPUT "Pendapatan        : ", pendapatan
+    OUTPUT "Total Pengeluaran : ", totalPengeluaran
+    OUTPUT "Sisa Saldo        : ", sisaSaldo
+    OUTPUT "Persentase Saldo  : ", persentaseSaldo, "%"
+    OUTPUT "Kondisi Keuangan  : ", kondisiKeuangan
+
+END

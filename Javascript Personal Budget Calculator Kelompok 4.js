@@ -37,6 +37,12 @@ console.log ("Total Pengeluaran: Rp." + TotalPengeluaran)
 console.log("")
 SisaSaldo = Pendapatan - TotalPengeluaran
 console.log ("Sisa Saldo: Rp." + SisaSaldo)
+console.log("")
+
+//Kondisi apabila sisa saldo = 0 atau negatif
+if (SisaSaldo <= 0) {
+  console.log ("WARNING: Tidak ada saldo tersisa. Anda beresiko terjarit hutang online")
+}
 
 //Pelabelan status keuangan berdasarkan sisa saldo
 console.log("")
@@ -46,3 +52,4 @@ if (SisaSaldo >= 0.3*Pendapatan) {
   console.log("Status keuangan: Perlu Perhatian")
 } else
   console.log("Status keuangan: Kritis")
+2

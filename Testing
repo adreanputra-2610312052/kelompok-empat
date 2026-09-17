@@ -1,0 +1,147 @@
+# Testing
+The program is tested using several test scenarios.
+
+Testing documentation:
+
+
+## Test Case 1
+
+=== Personal Budget Calculator ===
+
+**Input:**
+Masukkan pendapatan anda: Rp.500000
+
+Jumlah pengeluaran yang ingin dimasukkan: 2
+
+Kategori pengeluaran ke-1: Makan
+Jumlah pengeluaran untuk Makan: Rp.50000
+
+Kategori pengeluaran ke-2: Bensin
+Jumlah pengeluaran untuk Bensin: Rp.20000
+
+**Expected Output:**
+Total Pengeluaran: Rp.70000
+
+Sisa Saldo: Rp.430000
+
+Status keuangan: Baik
+
+**Actual Output:**
+Total Pengeluaran: Rp.70000
+
+Sisa Saldo: Rp.430000
+
+Status keuangan: Baik
+
+**Status:** PASS 
+
+## Test Case 2
+
+=== Personal Budget Calculator ===
+
+**Input:**
+Masukkan pendapatan anda: Rp.2000000
+
+Jumlah pengeluaran yang ingin dimasukkan: 4
+
+Kategori pengeluaran ke-1: Makan
+Jumlah pengeluaran untuk Makan: Rp.700000
+
+Kategori pengeluaran ke-2: Jalan
+Jumlah pengeluaran untuk Jalan: Rp.300000
+
+Kategori pengeluaran ke-3: Bensin
+Jumlah pengeluaran untuk Bensin: Rp.200000
+
+Kategori pengeluaran ke-4: Listrik
+Jumlah pengeluaran untuk Listrik: Rp.500000
+
+**Expected Output:**
+Total Pengeluaran: Rp.1700000
+
+Sisa Saldo: Rp.300000
+
+Status keuangan: Perlu Perhatian
+
+**Actual Output:**
+Total Pengeluaran: Rp.1700000
+
+Sisa Saldo: Rp.300000
+
+Status keuangan: Perlu Perhatian
+
+**Status:** PASS 
+
+## Test Case 3
+
+=== Personal Budget Calculator ===
+
+**Input:**
+Masukkan pendapatan anda: Rp.5000000
+
+Jumlah pengeluaran yang ingin dimasukkan: 5
+
+Kategori pengeluaran ke-1: Penginapan
+Jumlah pengeluaran untuk Penginapan: Rp.2000000
+
+Kategori pengeluaran ke-2: Perjalanan
+Jumlah pengeluaran untuk Perjalanan: Rp.1400000
+
+Kategori pengeluaran ke-3: Makanan
+Jumlah pengeluaran untuk Makanan: Rp.1000000
+
+Kategori pengeluaran ke-4: Oleh-oleh
+Jumlah pengeluaran untuk Oleh-oleh: Rp.300000
+
+Kategori pengeluaran ke-5: Destinasi
+Jumlah pengeluaran untuk Destinasi: Rp.200000
+
+**Expected Output:**
+Total Pengeluaran: Rp.4900000
+
+Sisa Saldo: Rp.100000
+
+Status keuangan: Kritis
+
+**Actual Output:**
+Total Pengeluaran: Rp.4900000
+
+Sisa Saldo: Rp.100000
+
+Status keuangan: Kritis
+
+**Status:** PASS 
+
+##Test Case 4
+
+=== Personal Budget Calculator ===
+
+**Input:**
+Masukkan pendapatan anda: Rp.1000000
+
+Jumlah pengeluaran yang ingin dimasukkan: 3
+
+Kategori pengeluaran ke-1: Action Figure
+Jumlah pengeluaran untuk Action Figure: Rp.400000
+
+Kategori pengeluaran ke-2: Hot wheels
+Jumlah pengeluaran untuk Hot wheels: Rp.300000
+
+Kategori pengeluaran ke-3: Stay Cation
+Jumlah pengeluaran untuk Stay Cation: Rp.500000
+
+**Expected Output:**
+Total Pengeluaran: Rp.1200000
+
+Sisa Saldo: Rp.-200000
+
+Status keuangan: Kritis
+
+**Actual Output:**
+Total Pengeluaran: Rp.1200000
+
+Sisa Saldo: Rp.-200000
+
+Status keuangan: Kritis
+
+**Status:** PASS

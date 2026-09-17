@@ -24,11 +24,12 @@ console.log("")
   daftarPengeluaran.push({kategori: kategori, jumlah: jumlah})
 }
 
-
+//Print Output
 console.log("")
 console.log("")
 console.log("=== RINGKASAN ANGGARAN ===")
 
+//Penghitungan total pengeluaran
 console.log("")
 console.log ("Total Pengeluaran: Rp." + TotalPengeluaran)
 

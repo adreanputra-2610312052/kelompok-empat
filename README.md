@@ -76,3 +76,5 @@ The program displays:
 
 ## 9. flowchart
 https://github.com/adreanputra-2610312052/kelompok-empat/blob/827fb12d83cf45d2cd85938bd4eb173861986ca8/flowgarithm%20kelompok%204.fprg
+
+https://github.com/adreanputra-2610312052/kelompok-empat/blob/a562e449a75bd842386d524e8f358b69dae27e71/flowgarithm%20kelompok%204%20-%20Main.png

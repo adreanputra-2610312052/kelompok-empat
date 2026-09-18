@@ -77,7 +77,7 @@ https://github.com/adreanputra-2610312052/kelompok-empat/blob/3fbc5281b2e883a810
 ## 9. Flowchart
 https://github.com/adreanputra-2610312052/kelompok-empat/blob/06ff2c681f75cfa87ae9da8ccdc283d5c0dd5652/Flowgarithm%204.fprg
 
-https://github.com/adreanputra-2610312052/kelompok-empat/blob/a562e449a75bd842386d524e8f358b69dae27e71/flowgarithm%20kelompok%204%20-%20Main.png
+https://github.com/adreanputra-2610312052/kelompok-empat/blob/fac1fdba30233bbf268e695b6b5989c135be84ef/Flowgarithm%204.png
 
 ---
 

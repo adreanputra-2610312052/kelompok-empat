@@ -108,21 +108,24 @@ The program displays:
 - Ringkasan anggaran
 
 ## 8. Pseudocode
-https://github.com/adreanputra-2610312052/kelompok-empat/blob/3fbc5281b2e883a81022421f1fde309b0cd00891/Pseudocode.txt
+[pseudocode.txt](https://github.com/adreanputra-2610312052/kelompok-empat/blob/3fbc5281b2e883a81022421f1fde309b0cd00891/Pseudocode.txt)
 
 ## 9. Flowchart
-https://github.com/adreanputra-2610312052/kelompok-empat/blob/06ff2c681f75cfa87ae9da8ccdc283d5c0dd5652/Flowgarithm%204.fprg
+[flowgarithm.fprg](https://github.com/adreanputra-2610312052/kelompok-empat/blob/06ff2c681f75cfa87ae9da8ccdc283d5c0dd5652/Flowgarithm%204.fprg)
 
-https://github.com/adreanputra-2610312052/kelompok-empat/blob/fac1fdba30233bbf268e695b6b5989c135be84ef/Flowgarithm%204.png
+[flowgarithm.png](https://github.com/adreanputra-2610312052/kelompok-empat/blob/fac1fdba30233bbf268e695b6b5989c135be84ef/Flowgarithm%204.png)
 
 ---
 
 ## 10. Javascript
-https://github.com/adreanputra-2610312052/kelompok-empat/blob/c839d50b3cadc935463e8a626f63909f9e4bde24/Javascript%20Personal%20Budget%20Calculator%20Kelompok%204.js
+[program.js](https://github.com/adreanputra-2610312052/kelompok-empat/blob/c839d50b3cadc935463e8a626f63909f9e4bde24/Javascript%20Personal%20Budget%20Calculator%20Kelompok%204.js)
 
 ---
 
 ## 11. Testing
-https://github.com/adreanputra-2610312052/kelompok-empat/blob/dd936fcea7fc50797f08846ace3279609bf5107f/Testing
+The program is tested using several test scenarios.
+
+Testing documentation:
+[test-cases.md](https://github.com/adreanputra-2610312052/kelompok-empat/blob/dd936fcea7fc50797f08846ace3279609bf5107f/Testing)
 
 ---

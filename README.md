@@ -6,13 +6,48 @@
 **Group:** 4
 
 ### Group Members
-| No. | Name | Student ID | Role |
-| --- | --- | --- | --- |
-| 1 | Adrean Putra Widhiansyah | 2610312052 | Project Coordinator |
-| 2 | Clarissa Devi Tyanta | 2610312041 | Algorithm |
-| 3 | Andi Chika Almira Aurora | 2610312061 | Flowchart |
-| 4 | Panji Jalu Hengkara | 2610312051 | JavaScript |
-| 5 | Muhamad Arkha Erdien | 2610312056 | Testing & Documentation |
+<table>
+  <thead>
+    <tr>
+      <th>No.</th>
+      <th>Name</th>
+      <th>Student ID</th>
+      <th>Role</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>Adrean Putra Widhiansyah</td>
+      <td>2610312052</td>
+      <td>Project Coordinator</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>Clarissa Devi Tyanta</td>
+      <td>2610312041</td>
+      <td>Algorithm</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>Andi Chika Almira Aurora</td>
+      <td>2610312061</td>
+      <td>Flowchart</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>Panji Jalu Hengkara</td>
+      <td>2610312051</td>
+      <td>JavaScript</td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>Muhamad Arkha Erdien</td>
+      <td>2610312056</td>
+      <td>Testing &amp; Documentation</td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 

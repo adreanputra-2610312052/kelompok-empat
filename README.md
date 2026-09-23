@@ -7,7 +7,6 @@
 
 ### Group Members
 | No. | Name | Student ID | Role |
-| No. | Name | Student ID | Role |
 | --- | --- | --- | --- |
 | 1 | Adrean Putra Widhiansyah | 2610312052 | Project Coordinator |
 | 2 | Clarissa Devi Tyanta | 2610312041 | Algorithm |

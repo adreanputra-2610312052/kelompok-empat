@@ -13,6 +13,7 @@
 | 3 | Andi Chika Almira Aurora | 2610312061 | Flowchart |
 | 4 | Panji Jalu Hengkara | 2610312051 | JavaScript |
 | 5 | Muhamad Arkha Erdien | 2610312056 | Testing & Documentation |
+
 ---
 
 ## 2. Project Title
